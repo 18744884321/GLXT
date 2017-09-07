@@ -1,0 +1,56 @@
+.red{
+  color: #035189 !important;
+}
+.cxDiv{
+  margin-top: 5px;
+  background-color: #fafafa;
+  min-height: 985px;
+  border-top: 1px solid #fafafa;
+}
+.nav{
+  width: 1000px;
+  margin: 10px auto;
+}
+.nav p{
+  float: left;
+  line-height: 30px;
+}
+.search{
+  float: right;
+}
+.search input{
+  width: 245px;
+  height: 35px;
+  text-indent: 10px;
+}
+.search button{
+  width: 38px;
+  height: 35px;
+  background-color: #035189;
+  color: #ffffff;
+  border: 1px solid #035189;
+}
+.sideMenu{
+  position: relative;
+}
+.main-bzbox{
+  position: absolute;
+  right: 0
+}
+.fterer_bz{
+  line-height: 20px;
+  background-color: #fafafa;
+  text-align: center;
+}
+.fterer_bz p{
+  margin-bottom: 0px;
+}
+.li2{
+  color: #035189 !important;
+}
+.sub ul .active{
+  color: blue !important
+}
+.search button:hover{
+  opacity: 0.9;
+}
